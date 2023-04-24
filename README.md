@@ -4,7 +4,7 @@
 * Generate your own  API keys from https://platform.openai.com/account/api-keys  <br>
 * Clone this repo <br>
 * Create  .env file <br>
-* Add your api Key  OPENAI_API_KEY="ab-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" <br>
+* Add your api Key  OPENAI_API_KEY="ab-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" in .env file <br>
 * Open the terminal and run  python chat.py <br>
 
 ### Terminal response sample 
