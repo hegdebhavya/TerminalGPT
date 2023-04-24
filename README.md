@@ -1,6 +1,6 @@
 # TerminalGPT
 
-### How to run the app locally?
+### How to run the app locally in your teminal?
 * Generate your own  API keys from https://platform.openai.com/account/api-keys  <br>
 * Clone this repo <br>
 * Create  .env file <br>
