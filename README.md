@@ -3,6 +3,7 @@
 ### How to run the app locally in your teminal?
 * Generate your own  API keys from https://platform.openai.com/account/api-keys  <br>
 * Clone this repo <br>
+* install the required dependencies ``` pip install -r requirements.txt ```
 * Create  .env file <br>
 * Add your api Key  OPENAI_API_KEY="ab-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" in .env file <br>
 * Open the terminal and run  python chat.py <br>
